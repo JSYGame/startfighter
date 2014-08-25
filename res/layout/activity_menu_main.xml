@@ -10,8 +10,5 @@
 	    android:layout_height="match_parent">
 	    </ImageView>
 	    
-	<ImageButton android:src="@drawable/">
-				    
-	</ImageButton>
     
 </FrameLayout>
